@@ -1,6 +1,8 @@
 # TechniSat Isio S1 - Hardware & Software Internals
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+[![Join the Discord!](https://img.shields.io/discord/1390709217333219452?logo=discord&label=Discord&color=5865F2
+)](https://discord.gg/hGZF3Z63nD)
 
 This repository is a community-driven effort to document the hardware components, boot process, and software internals of the TechniSat Isio S1 satellite receiver. Our goal is to understand the device better, enable potential repairs, and explore possibilities for running custom or alternative software.
 

@@ -1,6 +1,6 @@
 # TechniSat Isio S1 - Hardware & Software Internals
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen) ![SoC](https://img.shields.io/badge/SoC-STi7105-blue)
+![Status](https://img.shields.io/badge/Status-On%20Hold-yellow) ![SoC](https://img.shields.io/badge/SoC-STi7105-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 [![Join the Discord!](https://img.shields.io/discord/1390709217333219452?logo=discord&label=Discord&color=5865F2
 )](https://discord.gg/hGZF3Z63nD)

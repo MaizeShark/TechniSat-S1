@@ -9,7 +9,7 @@ payload controls which physical pixel.
 pip install pyserial
 ```
 
-Flash the ESP32 firmware (from the `vfd-replay` project) first, and run
+Flash the ESP32 firmware (from `frontpanel/firmware`) first, and run
 `i` once in the Serial Monitor to initialize the device — or just let this
 tool talk to it after you've done that manually. Then **close the Serial
 Monitor / any other program using the serial port** before running this

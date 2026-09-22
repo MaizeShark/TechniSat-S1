@@ -1,0 +1,9 @@
+{
+  "name": "VfdController",
+  "version": "0.1.0",
+  "description": "Driver for TechniSat Digit Isio S1. VFD display and buttons are implemented; LEDs and IR are not yet reverse-engineered.",
+  "keywords": ["vfd", "display", "i2c", "reverse-engineering"],
+  "frameworks": "arduino",
+  "platforms": ["espressif32"],
+  "dependencies": {}
+}

@@ -1,0 +1,14 @@
+# Raw I2C capture data — kept locally, too noisy/bulky to push.
+# The decoded findings belong in docs/wiki/ instead.
+captures/i2c/*.csv
+captures/i2c/dumps/
+
+# Scan originals. Only the exported PNGs next to them are tracked.
+docs/pictures/scans/**/*.pnm
+docs/pictures/scans/**/*.kra
+docs/pictures/scans/**/*.kra~
+docs/pictures/scans/**/*.kra-autosave.kra
+
+# Python
+__pycache__/
+*.py[cod]
